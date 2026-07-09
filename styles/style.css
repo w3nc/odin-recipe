@@ -1,0 +1,62 @@
+
+html {
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: rgb(233, 211, 211);
+    
+}
+
+h1, h2, h3, p, li {
+  font-family: "Times New Roman", Times, Serif;
+  /* background-color: aqua; */
+  
+}
+h1 {
+    font-size: 64px;
+}
+
+img {
+    border: 1px dashed black;
+    height: auto;
+    width: 800px;
+    display: block;
+    margin: 0 auto;
+}
+
+.sub-head {
+    font-size: 32px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.heading, .sub-head, .para {
+    text-align: center;
+}
+
+a {
+    display: block;
+    font-size: larger;
+}
+
+strong {
+    display: inline-block;
+}
+
+.sub-head two, ol li, ul li {
+    font-size: 24px;
+} 
+
+ul li {
+    list-style: none;
+    text-align: center;
+    
+}
+
+ol li {
+    padding: 5px;
+}
