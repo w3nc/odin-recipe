@@ -1,0 +1,17 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+ul li {
+  font-size: 32px;
+  display: inline;
+  margin: 15px;
+}
+
+* {
+  text-align: center;
+}
