@@ -1,0 +1,42 @@
+body {
+    background-color: antiquewhite;
+}
+
+.head, .para, .subhead, .centered li {
+    text-align: center;
+}
+
+.centered {
+    list-style: none;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
+
+.head {
+    font-size: 64px;
+    margin: 15px;
+}
+
+.subhead {
+    font-size: 48px;
+    margin: 15px;
+}
+
+.subhead.two {
+    font-size: 32px;
+}
+
+.para, li {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+a {
+    display: block;
+    font-size: 32px;
+}
